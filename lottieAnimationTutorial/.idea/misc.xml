@@ -3,13 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17" />
-        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.17" />
-        <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.17" />
-        <entry key="app/src/main/res/drawable/rounded_corner_blue.xml" value="0.197" />
-        <entry key="app/src/main/res/drawable/rounded_corner_white_transparent.xml" value="0.197" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_second.xml" value="0.32427673339843754" />
       </map>
     </option>
   </component>
